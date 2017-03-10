@@ -3,7 +3,7 @@ body{ font-size:12px; *overflow-x:hidden; font-family:Arial,"Microsoft YaHei","å
 table{ border-collapse:collapse; border-spacing:0;}
 input,select,option,textarea{outline: none;}
 ol, ul, li{ list-style:none;}
-img { vertical-align: top;}
+/*img { vertical-align: top;}*/
 h1, h2, h3, h4, h5, h6{ font-weight:normal;}
 i, em { font-style: normal;}
 a{ display: inline-block; text-decoration:none; color:#666;}
@@ -119,7 +119,7 @@ a:focus, input:focus{ -moz-outline-style: none; }
 .p-cont h3 { padding: 80px 0 45px 0;}
 .tioajian { margin: 0 auto; width: 759px; text-align: left;}
 .tioajian li { float: left; width: 253px;}
-.tioajian li img { width: 253px; height: 176px;}
+.tioajian li img { width: 253px; height: 176px; vertical-align: top;}
 .tioajian li .txt { width: 230px; height: 144px; padding: 32px 0 0 23px; position: relative; background-color: #edf5ff;}
 .up, .down { display: inline-block; position: absolute; width:0; height:0; border-left:10px solid transparent; border-right:10px solid transparent; left: 47%; }
 .up { top: -10px; border-bottom:10px solid #edf5ff;}
