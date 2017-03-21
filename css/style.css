@@ -107,7 +107,8 @@ address span{
 }
 .skills h3{
   color: #FFF;
-  padding: 5px 98px 5px 30px;
+  /*padding: 5px 98px 5px 30px;*/
+	padding: 5px 41px 5px 30px;
   display: inline-block;
 }
 .company_details,.education_details {
@@ -168,7 +169,8 @@ address span{
 .education  h3{
   background: #999;
   color: #FFF;
-  padding: 5px 190px 5px 30px;
+  /*padding: 5px 190px 5px 30px;*/
+	padding: 5px 41px 5px 30px;
   display: inline-block;
 }
 h3.clr1{
